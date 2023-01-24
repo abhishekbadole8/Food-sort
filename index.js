@@ -1,6 +1,6 @@
 const foodItems = [
     {
-        name: "Poha", category: "BreakFast", calories: 158, junkfood: "Yes", img: "/img/breakfast/poha-img.webp"
+        name: "Poha", category: "BreakFast", calories: 158, junkfood: "No", img: "/img/breakfast/poha-img.webp"
     }, {
         name: "Mutton-keema", category: "MainCourse", calories: 234, junkfood: "No", img: "mutton-keema-img.webp"
     }, {
